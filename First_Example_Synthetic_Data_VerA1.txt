@@ -11,10 +11,10 @@
 *                                                                                             *
 ***********************************************************************************************
 *											      *
-* This optimzation model is based on the data of th efirst illustrative example described in  *
+* This optimzation model is based on the data of the first illustrative example described in  *
 * Section 3.1 of the paper entitled "An Optimization Approach for Consolidating the Ranking   *
-* Results from a Group of Voters." (This title may have changed since this time.	      *
-*											      *
+* Results from a Group of Voters." (This title may have changed since this time.)      	      *
+*                                                                            											      *
 * This code was written by Evangelos Triantaphyllou during the summer / fall of 2022 and the  *
 * spring of 2023.  									      *
 * Today's date:  January 21, 2023.                                                            *
